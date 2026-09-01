@@ -6,3 +6,5 @@ local.properties
 captures/
 .idea/
 .DS_Store
+
+.claude/
